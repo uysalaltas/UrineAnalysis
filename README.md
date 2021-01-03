@@ -12,7 +12,7 @@ Master Thesis
   * /train/wbc
   * /train/rbc<br/>
   
-3-Insert you train and test images inside the subfolders.
+3-Insert you train and test images inside the subfolders.<br/>
 4-In Run.py script, uncomment these functions in __main__ methot. Comment other functions.
   * bovw_train_and_save()
 
